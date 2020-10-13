@@ -1,17 +1,17 @@
 # DATA-602_1 Vehicle Insurance Analysis#
 
-##Contributors:##
+*Contributors:*
   Rushabh Shah
   
-##Project Goal##:
+*Project Goal*:
 
 The goal of this project is to compare various classification algorithms to find the one which is more accurate and appropriate for this dataset. Deciding a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
-##Motivation:##
+*Motivation:*
 
 This dataset is from Kaggle hackathon. The challenge here is to evaluate different classification models inorder to predict the most appropriate class. This will give me an opportunity to explore different algorithms and see the results. This dataset has a class imbalance problem that encouraged me to address this problem.
 
-##Methods Applied##
+*Methods Applied*
 
 The classification algorithms applied in this project are:
     
@@ -25,23 +25,24 @@ The classification algorithms applied in this project are:
     
 The method used to hanld class imbalance is Upscaling.
 
-##Data Summary:##
+*Data Summary:*
 
 There is a train dataset provided by an insurance company which is now looking to step in the vehicle insurance market. They want to predict if they will get a good response. We have to decide a classification algorithm that will help predicting responses.
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
 
-##Summary of files:##
+*Summary of files:**
 
-###Data Source:###
+Data Source:
 
-[Kaggle]:"https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction"
+[Kaggle]("https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction")
 
-###Notebooks: ###
+Notebooks:
 
-           1. ["Vehicle Insurance EDA"]:https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Vehicle_Insurance_EDA.ipynb
-           2. ["Vehicle Insurance Report"]:https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Vehicle_Insurance_Report.ipynb
+["Vehicle Insurance EDA"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Vehicle_Insurance_EDA.ipynb)
+
+["Vehicle Insurance Report"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Vehicle_Insurance_Report.ipynb)
            
-###Slide Deck:###
+Slide Deck:
          
-          ["Presentation"]:https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Presentation.pptx
+["Presentation"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Presentation.pptx)
           
