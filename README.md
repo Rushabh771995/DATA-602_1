@@ -38,11 +38,15 @@ Data Source:
 
 Notebooks:
 
-["Vehicle Insurance EDA"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Vehicle_Insurance_EDA.ipynb)
+["Vehicle Insurance EDA"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/notebooks/Vehicle_Insurance_EDA.ipynb)
 
-["Vehicle Insurance Report"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Vehicle_Insurance_Report.ipynb)
+["Vehicle Insurance Report"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/notebooks/Vehicle_Insurance_Report.ipynb)
            
 Slide Deck:
          
 ["Presentation"](https://github.com/Rushabh771995/DATA-602_1/blob/Vehicle_insurance/Presentation.pptx)
+
+Images:
+
+["Images"](https://github.com/Rushabh771995/DATA-602_1/tree/Vehicle_insurance/images)
           
